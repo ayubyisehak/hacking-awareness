@@ -1,1 +1,1 @@
-# hacking-awareness
+School project
